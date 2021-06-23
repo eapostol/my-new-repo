@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="MarkdownProjectSettings">
+<<<<<<< HEAD
     <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.5" maxImageWidth="0" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true" lastLayoutSetsDefault="false">
       <PanelProvider>
         <provider providerId="com.vladsch.md.nav.editor.swing.html.panel" providerName="Default - Swing" />
+=======
+    <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="true" zoomFactor="1.5" maxImageWidth="0" synchronizePreviewPosition="true" highlightPreviewType="LINE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="true" showSelectionInPreview="true" lastLayoutSetsDefault="false">
+      <PanelProvider>
+        <provider providerId="com.vladsch.md.nav.editor.jbcef.html.panel" providerName="Java Chromium Embedded" />
+>>>>>>> 15b899fa9a46ca6c74c06a682a4efa555b141a86
       </PanelProvider>
     </PreviewSettings>
     <ParserSettings gitHubSyntaxChange="false" correctedInvalidSettings="false" emojiShortcuts="1" emojiImages="0">
@@ -24,9 +30,15 @@
         <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
       </ParserOptions>
     </ParserSettings>
+<<<<<<< HEAD
     <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" addPageHeader="true" addAnchorLinks="true" anchorLinksWrapText="false" imageUriSerials="false" addDocTypeHtml="true" noParaTags="false" defaultUrlTitle="false" migratedPlantUml="false" migratedAnchorLinks="false" plantUmlConversion="0">
       <GeneratorProvider>
         <provider providerId="com.vladsch.md.nav.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
+=======
+    <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" addPageHeader="false" addAnchorLinks="true" anchorLinksWrapText="false" imageUriSerials="false" addDocTypeHtml="true" noParaTags="false" defaultUrlTitle="false" migratedPlantUml="false" migratedAnchorLinks="false" plantUmlConversion="0">
+      <GeneratorProvider>
+        <provider providerId="com.vladsch.md.nav.editor.javafx.html.generator" providerName="JavaFx/Chromium HTML Generator" />
+>>>>>>> 15b899fa9a46ca6c74c06a682a4efa555b141a86
       </GeneratorProvider>
       <headerTop />
       <headerBottom />
@@ -36,9 +48,17 @@
     </HtmlSettings>
     <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssUriSerial="true" isCssTextEnabled="false" isDynamicPageWidth="true">
       <StylesheetProvider>
+<<<<<<< HEAD
         <provider providerId="com.vladsch.md.nav.editor.swing.html.css" providerName="Default Swing Stylesheet" />
       </StylesheetProvider>
       <ScriptProviders />
+=======
+        <provider providerId="com.vladsch.md.nav.editor.javafx.html.css" providerName="Default JavaFx/Chromium Stylesheet" />
+      </StylesheetProvider>
+      <ScriptProviders>
+        <provider providerId="com.vladsch.md.nav.editor.hljs.html.script" providerName="HighlightJS Script" />
+      </ScriptProviders>
+>>>>>>> 15b899fa9a46ca6c74c06a682a4efa555b141a86
       <cssText />
       <cssUriHistory />
     </CssSettings>
